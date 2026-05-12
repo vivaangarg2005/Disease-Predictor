@@ -109,6 +109,12 @@ This project is developed for educational purposes only and should not be used f
 
 ---
 
+# 🌐 Live Demo
+
+[https://disease-predictor1.streamlit.app/](https://disease-predictor1.streamlit.app/)
+
+---
+
 # 👨‍💻 Author
 
 Made with ❤️ by Vivaan Garg
